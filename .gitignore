@@ -1,0 +1,23 @@
+*.iml
+.DS_Store
+
+# Local machine/project config
+/local.properties
+/.idea/
+
+# Gradle and build outputs (root and modules)
+.gradle/
+**/build/
+**/build */
+
+# Android/NDK generated folders
+**/.externalNativeBuild/
+**/.cxx/
+
+# Generated captures and binaries
+/captures/
+*.apk
+*.aab
+
+# Optional docs output folder
+docs/

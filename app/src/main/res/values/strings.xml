@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Memória Boba</string>
+    <string name="title_game">Memória Boba</string>
+    <string name="description_game">Vire as cartas e encontre os pares antes do tempo acabar!</string>
+    <string name="start_game">Começar</string>
+    <string name="play_again">Jogar novamente</string>
+    <string name="back_home">Voltar ao início</string>
+    <string name="best_score">Recorde: %1$d</string>
+    <string name="time_left">Tempo: %1$ds</string>
+    <string name="moves">Jogadas: %1$d</string>
+    <string name="matches">Pares: %1$d/%2$d</string>
+    <string name="status_ready">Toque em duas cartas para tentar um par.</string>
+    <string name="status_first_card">Boa! Agora encontre a carta igual.</string>
+    <string name="status_match">Par perfeito! Continue assim ✨</string>
+    <string name="status_mismatch">Não foi dessa vez 😅</string>
+    <string name="result_title">Resultado</string>
+    <string name="result_message">Partida encerrada</string>
+    <string name="score">Pontuação: %1$d</string>
+    <string name="win_message">Boa! Você encontrou todos os pares.</string>
+    <string name="lose_message">Tempo esgotado. Tente de novo!</string>
+</resources>
