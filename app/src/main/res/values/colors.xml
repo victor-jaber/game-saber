@@ -1,22 +1,52 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="launcher_background">#0F172A</color>
+    <color name="launcher_background">#1A0A2E</color>
 
-    <color name="background_top">#E0F2FE</color>
-    <color name="background_bottom">#F8FAFC</color>
-    <color name="panel_background">#FFFFFFFF</color>
-    <color name="panel_stroke">#BFDBFE</color>
+    <color name="background_top">#1A0A2E</color>
+    <color name="background_bottom">#16213E</color>
 
-    <color name="text_primary">#0F172A</color>
-    <color name="text_secondary">#334155</color>
+    <color name="panel_background">#1E1145</color>
+    <color name="panel_background_light">#2A1B5E</color>
+    <color name="panel_stroke">#3D2D7A</color>
 
-    <color name="card_back">#1D4ED8</color>
-    <color name="card_front">#FFFFFF</color>
-    <color name="card_matched">#86EFAC</color>
+    <color name="text_primary">#F0E6FF</color>
+    <color name="text_secondary">#B8A9D4</color>
+    <color name="text_accent">#E0C3FC</color>
+
+    <color name="card_back_start">#6C63FF</color>
+    <color name="card_back_end">#8B5CF6</color>
+    <color name="card_back">#7C3AED</color>
+    <color name="card_front">#2A1B5E</color>
+    <color name="card_matched">#10B981</color>
+    <color name="card_matched_dark">#059669</color>
     <color name="card_text_light">#FFFFFF</color>
+    <color name="card_text_emoji">#F0E6FF</color>
+    <color name="card_border">#9D8AFF</color>
 
-    <color name="status_good">#16A34A</color>
-    <color name="status_bad">#DC2626</color>
-    <color name="status_neutral">#2563EB</color>
+    <color name="accent_primary">#8B5CF6</color>
+    <color name="accent_secondary">#EC4899</color>
+    <color name="accent_gradient_start">#8B5CF6</color>
+    <color name="accent_gradient_end">#EC4899</color>
+
+    <color name="button_primary_start">#8B5CF6</color>
+    <color name="button_primary_end">#6C63FF</color>
+    <color name="button_secondary">#2A1B5E</color>
+    <color name="button_secondary_stroke">#5B4A9E</color>
+
+    <color name="status_good">#34D399</color>
+    <color name="status_bad">#F87171</color>
+    <color name="status_neutral">#A78BFA</color>
+
+    <color name="timer_background">#2A1B5E</color>
+    <color name="timer_progress">#8B5CF6</color>
+    <color name="timer_warning">#F59E0B</color>
+    <color name="timer_danger">#EF4444</color>
+
+    <color name="stat_icon_time">#60A5FA</color>
+    <color name="stat_icon_moves">#FBBF24</color>
+    <color name="stat_icon_pairs">#34D399</color>
+
+    <color name="overlay_dark">#801A0A2E</color>
+    <color name="shimmer_highlight">#33FFFFFF</color>
 </resources>

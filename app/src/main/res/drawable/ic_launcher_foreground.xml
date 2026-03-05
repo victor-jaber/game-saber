@@ -4,16 +4,37 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+    <!-- Background rounded square -->
     <path
-        android:fillColor="#22D3EE"
-        android:pathData="M20,20h68a8,8 0 0 1 8,8v52a8,8 0 0 1 -8,8h-68a8,8 0 0 1 -8,-8v-52a8,8 0 0 1 8,-8z" />
+        android:fillColor="#8B5CF6"
+        android:pathData="M24,24h60a10,10 0 0 1 10,10v40a10,10 0 0 1 -10,10h-60a10,10 0 0 1 -10,-10v-40a10,10 0 0 1 10,-10z" />
+    <!-- Top-left card -->
     <path
-        android:fillColor="#0F172A"
-        android:pathData="M54,26a20,20 0 1 0 0,40a20,20 0 1 0 0,-40z" />
+        android:fillColor="#6C63FF"
+        android:pathData="M26,28h22a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-22a4,4 0 0 1 -4,-4v-16a4,4 0 0 1 4,-4z" />
+    <!-- Top-right card -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M60,28h22a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-22a4,4 0 0 1 -4,-4v-16a4,4 0 0 1 4,-4z" />
+    <!-- Bottom-left card -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M26,56h22a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-22a4,4 0 0 1 -4,-4v-16a4,4 0 0 1 4,-4z" />
+    <!-- Bottom-right card -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M60,56h22a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-22a4,4 0 0 1 -4,-4v-16a4,4 0 0 1 4,-4z" />
+    <!-- Question marks -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M54,34a12,12 0 1 0 0,24a12,12 0 1 0 0,-24z" />
+        android:pathData="M35,38 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
     <path
-        android:fillColor="#0F172A"
-        android:pathData="M34,74h40a4,4 0 1 1 0,8h-40a4,4 0 1 1 0,-8z" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,38 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,66 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,66 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
 </vector>
